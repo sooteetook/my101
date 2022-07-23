@@ -1,0 +1,28 @@
+<menu>
+  <food>
+   <name>pizza</name>
+   <price>270</price>
+   <cal>500</cal>
+   </food>
+  <food>
+   <name>chilledog</name>
+   <price>100</price>
+   <cal>350</cal>
+   </food>
+  <food>
+   <name>dimsum</name>
+   <price>100</price>
+   <cal>250</cal>
+   </food>
+  <food>
+   <name>spagetti</name>
+   <price>460</price>
+   <cal>400</cal>
+  </food>
+  <food>
+   <name>hamburger</name>
+   <price>300</price>
+   <cal>600</cal>
+  </food>
+
+</menu>
